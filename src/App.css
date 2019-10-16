@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-background {
+  background-image: url("https://wallpapercave.com/wp/wp3484426.jpg");
+  background-size: 108%;
+  border-bottom: 2.5px solid #09C409;
+}
+
+.App-logo {
+  width: 40vmin;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: inline-block;
+  transition: all ease 200ms;
+}
+
+.App-logo:hover {
+  transform: scale(1.1);
+}
+
+.App-title {
+  font-family: 'Mansalva', cursive;
+  size: 2em;
+  color: #09C409;
+}
